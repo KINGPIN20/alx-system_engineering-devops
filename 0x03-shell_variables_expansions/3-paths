@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /path | wc -l
+ls /etc/profile | wc -l
