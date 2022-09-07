@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "hello there123" | tr a-zA-Z n-za-mN-ZA-N uryyb gurer123
+tr A-Za-z N-ZA-Mn-za-m
